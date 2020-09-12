@@ -14,9 +14,8 @@ FOGO!
 
 Abra a pasta do programa e digite:
 
-´´´
-
 dotnet run
-´´´
+
+como utilizar: 
 
 Pressione a tecla ENTER para cada transição.
